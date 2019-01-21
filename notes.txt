@@ -1,0 +1,20 @@
+
+github
+https://github.com/reedbarger/amplifyagora
+
+
+E:\_UDEMY_AWS\amplifyagora\amplify\backend\api\amplifyagora\schema.graphql
+
+amplify init
+
+amplify add api
+
+amplify push
+
+--------------------------------------------------------------------------------------------------
+GraphQL endpoint: https://mplxvm4l4rag7dajuamwqpcn6u.appsync-api.us-east-1.amazonaws.com/graphql
+----------------------------------------------------------------------------------------------------
+
+
+
+

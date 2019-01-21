@@ -1,0 +1,3 @@
+GraphQL schema compiled successfully. Edit your schema at E:\_UDEMY_AWS\amplifyagora\amplify\backend/api/amplifyagora/schema.graphql
+Successfully added resource amplifyagora locally
+
